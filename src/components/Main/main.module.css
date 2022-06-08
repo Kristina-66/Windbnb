@@ -1,0 +1,28 @@
+.main {
+  display: flex;
+  margin-top: 100px;
+  justify-content: space-between;
+  height: fit-content;
+  align-items: center;
+}
+
+
+.title {
+  font-weight: bold;
+  font-size: 24px;
+  color: #333333;
+  position: absolute;
+  width: 199px;
+  height: 29px;
+  left: 91px;
+  top: 110px;
+}
+
+.num_stays {
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 14px;
+  margin-left:1200px;
+  top: 110px;
+  
+}
